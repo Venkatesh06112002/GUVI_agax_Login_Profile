@@ -5,17 +5,19 @@
 In this project, I have created Login and Registration Page WHERE user can sign up and login.
 
 ## Sign up Tab
-![Screenshot (148)](https://user-images.githubusercontent.com/113005846/230783311-cf1e51ad-b78b-44f8-af50-89ff8b5ba0c0.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/113005846/230784030-f116f08b-0988-4bea-947a-055af7e18001.png)
 
 
 ## Login Tab
-![Screenshot (149)](https://user-images.githubusercontent.com/113005846/230783369-b1392a21-943a-42d4-a4a6-cd381b5ffb01.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/113005846/230784056-6d1c9216-396e-44a5-be16-fab42f4428d1.png)
 
 ## Profile Page
-![Screenshot (150)](https://user-images.githubusercontent.com/113005846/230783375-d188974e-a064-45d4-a390-2f95b77ff114.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/113005846/230784062-4f133be6-b1af-4caa-92f5-dd0f4fb2cfc6.png)
+
 
 ## Edit Profile
-![Screenshot (151)](https://user-images.githubusercontent.com/113005846/230783381-43b18eb3-db8f-4951-945e-001992ff776a.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/113005846/230784070-9ca2cbfc-b692-4ac0-b2d4-4b49e6ab4d69.png)
+
 
 
 ## Front End
