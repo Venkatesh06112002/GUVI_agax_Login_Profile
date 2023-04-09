@@ -12,11 +12,11 @@ In this project, I have created Login and Registration Page WHERE user can sign 
 ![Screenshot (149)](https://user-images.githubusercontent.com/113005846/230784056-6d1c9216-396e-44a5-be16-fab42f4428d1.png)
 
 ## Profile Page
-![Screenshot (149)](https://user-images.githubusercontent.com/113005846/230784062-4f133be6-b1af-4caa-92f5-dd0f4fb2cfc6.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/113005846/230784070-9ca2cbfc-b692-4ac0-b2d4-4b49e6ab4d69.png)
 
 
 ## Edit Profile
-![Screenshot (150)](https://user-images.githubusercontent.com/113005846/230784070-9ca2cbfc-b692-4ac0-b2d4-4b49e6ab4d69.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/113005846/230784147-dc5d41b9-caf4-494f-8296-11b74d3b87f9.png)
 
 
 
